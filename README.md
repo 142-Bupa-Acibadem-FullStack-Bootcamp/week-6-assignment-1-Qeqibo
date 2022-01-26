@@ -1,6 +1,7 @@
 # week-6-assignment-1
 
-### Bir sayı dizisi ve hedef değeri veriliyor. Toplamı, hedefe eşit olan ikililerin indexlerini dönen fonksiyonu yazınız.
+### Bir sayı dizisi ve hedef değeri veriliyor. Toplamı, hedefe eşit olan ikililerin indexlerini dönen 2 tane fonksiyon yazıldı bunlardan FindSum fonksiyonu içiçe for ile 
+yapıldı diğer bir fonksiyon olan FindSum2 fonksiyonu array içerisinde değer arayarak indexleri dönderiryor.
 
 - **Örnek 1:**
 
